@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "";
+$config['botToken'] = "6322969140:AAE8s2hrJryRDts3p8EC46zfcyfq9Z7Lq3A";
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = "";
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = "";
+$config['adminID'] = " 6549139728";
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = "";
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  "";
+$config['logsID'] =  "6549139728";
 
 /*
 |--------------------------------------------------------------------------
@@ -66,7 +66,7 @@ $config['db']['database'] =  "checkerbot";
 | Value is in Seconds. "20" = 20seconds
 |
 */
-$config['anti_spam_timer'] =  "20";
+$config['anti_spam_timer'] =  "3s";
 
 /*
 |--------------------------------------------------------------------------
